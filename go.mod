@@ -1,4 +1,4 @@
-module gameServer
+module sensitiveWord
 
 go 1.20
 

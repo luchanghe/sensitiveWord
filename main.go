@@ -4,11 +4,11 @@ import (
 	"bufio"
 	"encoding/json"
 	"fmt"
-	"gameServer/lib/ahoCorasick"
-	Config "gameServer/lib/config"
 	"io"
 	"net/http"
 	"os"
+	"sensitiveWord/lib/ahoCorasick"
+	Config "sensitiveWord/lib/config"
 )
 
 type ResponseData struct {
